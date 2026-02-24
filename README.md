@@ -1,6 +1,6 @@
 # Agent-1--Entrevistador-profissional
 Tem o objetivo de ajudar profissionalmente a escolher a carreira de acordo ao perfil do entrevistado 
- Desenvolvedor Web – 18/20
+ Desenvolvedor Web
 ════════════════════════════════════════════════════════════
 
 💡 Por que combina com você:  

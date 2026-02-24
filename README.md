@@ -1,12 +1,12 @@
 # Agent-1--Entrevistador-profissional
 Tem o objetivo de ajudar profissionalmente a escolher a carreira de acordo ao perfil do entrevistado 
+ 
  Desenvolvedor Web
+
 ════════════════════════════════════════════════════════════
 
-💡 Por que combina com você:  
- Gosto de resolver problemas e prefere trabalhar com código. Além disso, tem interesse direto em desenvolvimento web, o que torna essa carreira uma escolha natural para começar.
-
-⚖️ O que esperar:  
+   Gosto de resolver problemas e prefere trabalhar com código. Além disso, tem interesse direto em desenvolvimento web, o que torna essa carreira uma escolha natural para começar.
+  
 Vantagens:
 
 Ramp-up rápido para nível júnior
